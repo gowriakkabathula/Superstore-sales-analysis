@@ -1,6 +1,6 @@
 # Superstore-sales-analysis
 Excel-based Sales Dashboard project using pivot tables, KPIs, and data analysis to generate business insights.
-## EXcel Sales Dashboard Project
+## Excel Sales Dashboard Project
 This project is an Excel-based Sales Dashboard created to analyze business performance.
 The dashboard provides insights into sales, profit, orders and top 10 products in a simple and visual way.
 ## Tools Used
